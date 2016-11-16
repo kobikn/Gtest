@@ -11,7 +11,8 @@ import UIKit
 class SecondNewObject: NSObject {
 
     
-    print("something")
-    
+    func tmp() {
+        print("something")
+    }
     
 }
