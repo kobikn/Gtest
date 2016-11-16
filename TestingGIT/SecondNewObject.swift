@@ -10,7 +10,7 @@ import UIKit
 
 class SecondNewObject: NSObject {
 
-    
+    // note
     func tmp() {
         print("something")
     }

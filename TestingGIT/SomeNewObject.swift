@@ -9,5 +9,5 @@
 import UIKit
 
 class SomeNewObject: NSObject {
-
+    // note 1
 }
