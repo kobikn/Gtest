@@ -10,4 +10,8 @@ import UIKit
 
 class SecondNewObject: NSObject {
 
+    
+    print("something")
+    
+    
 }
