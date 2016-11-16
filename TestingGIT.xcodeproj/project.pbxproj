@@ -13,6 +13,7 @@
 		1B2597AE1DDB34ED00209556 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1B2597AD1DDB34ED00209556 /* Assets.xcassets */; };
 		1B2597B11DDB34ED00209556 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1B2597AF1DDB34ED00209556 /* LaunchScreen.storyboard */; };
 		1B2597B91DDB418800209556 /* SomeNewObject.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1B2597B81DDB418800209556 /* SomeNewObject.swift */; };
+		1B4D385A1DDC552400FC77EB /* SecondNewObject.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1B4D38591DDC552400FC77EB /* SecondNewObject.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		1B2597B01DDB34ED00209556 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		1B2597B21DDB34ED00209556 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		1B2597B81DDB418800209556 /* SomeNewObject.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SomeNewObject.swift; sourceTree = "<group>"; };
+		1B4D38591DDC552400FC77EB /* SecondNewObject.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SecondNewObject.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +58,7 @@
 		1B2597A51DDB34ED00209556 /* TestingGIT */ = {
 			isa = PBXGroup;
 			children = (
+				1B4D38591DDC552400FC77EB /* SecondNewObject.swift */,
 				1B2597B81DDB418800209556 /* SomeNewObject.swift */,
 				1B2597A61DDB34ED00209556 /* AppDelegate.swift */,
 				1B2597A81DDB34ED00209556 /* ViewController.swift */,
@@ -141,6 +144,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				1B2597B91DDB418800209556 /* SomeNewObject.swift in Sources */,
+				1B4D385A1DDC552400FC77EB /* SecondNewObject.swift in Sources */,
 				1B2597A91DDB34ED00209556 /* ViewController.swift in Sources */,
 				1B2597A71DDB34ED00209556 /* AppDelegate.swift in Sources */,
 			);
