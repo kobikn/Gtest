@@ -56,13 +56,13 @@
 		1B2597A51DDB34ED00209556 /* TestingGIT */ = {
 			isa = PBXGroup;
 			children = (
+				1B6BCC611DE2F9B5006392AD /* FileForDevBranch.swift */,
 				1B2597A61DDB34ED00209556 /* AppDelegate.swift */,
 				1B2597A81DDB34ED00209556 /* ViewController.swift */,
 				1B2597AA1DDB34ED00209556 /* Main.storyboard */,
 				1B2597AD1DDB34ED00209556 /* Assets.xcassets */,
 				1B2597AF1DDB34ED00209556 /* LaunchScreen.storyboard */,
 				1B2597B21DDB34ED00209556 /* Info.plist */,
-				1B6BCC611DE2F9B5006392AD /* FileForDevBranch.swift */,
 			);
 			path = TestingGIT;
 			sourceTree = "<group>";
