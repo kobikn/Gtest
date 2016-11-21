@@ -13,4 +13,7 @@ class FileForDevBranch: NSObject {
     // KOBI - something
     
     
+    let a = 10
+    
+    
 }
